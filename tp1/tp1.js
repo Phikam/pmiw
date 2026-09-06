@@ -1,3 +1,4 @@
+//Gualtieri Evelyn comision 1
 let logo;
 let tituloAlpha=0;//titulo de inicio
 
